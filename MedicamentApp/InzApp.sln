@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InzApp.Android", "InzApp\InzApp.Android\InzApp.Android.csproj", "{4A20F682-6C37-44B8-B49C-EB75D233FEFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InzApp", "InzApp\InzApp\InzApp.csproj", "{203AE749-95E3-4228-B004-4019D1255930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A20F682-6C37-44B8-B49C-EB75D233FEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A20F682-6C37-44B8-B49C-EB75D233FEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A20F682-6C37-44B8-B49C-EB75D233FEFA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4A20F682-6C37-44B8-B49C-EB75D233FEFA}.Debug|x64.ActiveCfg = Debug|x64
+		{4A20F682-6C37-44B8-B49C-EB75D233FEFA}.Debug|x64.Build.0 = Debug|x64
+		{4A20F682-6C37-44B8-B49C-EB75D233FEFA}.Debug|x64.Deploy.0 = Debug|x64
+		{4A20F682-6C37-44B8-B49C-EB75D233FEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A20F682-6C37-44B8-B49C-EB75D233FEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A20F682-6C37-44B8-B49C-EB75D233FEFA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4A20F682-6C37-44B8-B49C-EB75D233FEFA}.Release|x64.ActiveCfg = Release|x64
+		{4A20F682-6C37-44B8-B49C-EB75D233FEFA}.Release|x64.Build.0 = Release|x64
+		{4A20F682-6C37-44B8-B49C-EB75D233FEFA}.Release|x64.Deploy.0 = Release|x64
+		{203AE749-95E3-4228-B004-4019D1255930}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{203AE749-95E3-4228-B004-4019D1255930}.Debug|Any CPU.Build.0 = Debug|x64
+		{203AE749-95E3-4228-B004-4019D1255930}.Debug|Any CPU.Deploy.0 = Debug|x64
+		{203AE749-95E3-4228-B004-4019D1255930}.Debug|x64.ActiveCfg = Debug|x64
+		{203AE749-95E3-4228-B004-4019D1255930}.Debug|x64.Build.0 = Debug|x64
+		{203AE749-95E3-4228-B004-4019D1255930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203AE749-95E3-4228-B004-4019D1255930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203AE749-95E3-4228-B004-4019D1255930}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{203AE749-95E3-4228-B004-4019D1255930}.Release|x64.ActiveCfg = Release|x64
+		{203AE749-95E3-4228-B004-4019D1255930}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6139FC7B-0578-46A7-9462-7C9F6F9A0C7A}
+	EndGlobalSection
+EndGlobal

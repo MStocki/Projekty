@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              NavigationPage.HasNavigationBar="False"
+             x:Class="InzApp.Views.CameraPage">
+    <ScrollView HeightRequest="1000">
+    <StackLayout BackgroundColor="Black">
+        <Image x:Name="Photo"/>
+        <Button Text="TAKE PHOTO" Clicked="TakePhotoClick" BackgroundColor="#131313" HorizontalOptions="Center" VerticalOptions="Center" Margin="0,30,0,0"/>
+            <Label x:Name="InternetAccess" FontSize="24" TextColor="WhiteSmoke" FontAttributes="Bold" IsVisible="false" />
+            <Label x:Name="Found" FontSize="24" TextColor="WhiteSmoke" FontAttributes="Bold"  />
+        <Label x:Name="CompositionLabel"  FontSize="18" TextColor="WhiteSmoke" Text="Skład" IsVisible="false" FontAttributes="Bold"/>
+        <Label x:Name="Composition" FontSize="14" TextColor="WhiteSmoke"/>
+        <Label  x:Name="DoseLabel" FontSize="18" TextColor="WhiteSmoke" Text="Dawkowanie" IsVisible="false" FontAttributes="Bold"/>
+        <Label x:Name="Dose" FontSize="14" TextColor="WhiteSmoke"/>
+        <Label x:Name="IndicationsLabel" FontSize="18" TextColor="WhiteSmoke" Text="Wskazania" IsVisible="false" FontAttributes="Bold"/>
+        <Label x:Name="Indications" FontSize="14" TextColor="WhiteSmoke"/>
+        <Label x:Name="AbilityLabel" FontSize="18" TextColor="WhiteSmoke" Text="Możliwość prowadzenia pojazdów" IsVisible="false" FontAttributes="Bold"/>
+        <Label x:Name="AbilityToDrive" FontSize="14" TextColor="WhiteSmoke" Margin="0,0,0,30"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             NavigationPage.HasNavigationBar="False"
+             x:Class="InzApp.Views.HomePage">
+    <Grid Padding="50" BackgroundColor="Black" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackLayout>
+            <Label Text="HOME PAGE" TextColor="WhiteSmoke" FontSize="50" HorizontalOptions="Center"/>
+        </StackLayout>
+       
+        <Grid HorizontalOptions="Center" Margin="0,30,0,0" Grid.Row="1" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="200"/>
+            </Grid.RowDefinitions>
+            <Grid x:Name="Camera" BackgroundColor="#131313" Margin="10" Padding="10" Grid.Row="0" Grid.Column="0">
+                <ImageButton Aspect="AspectFit"  Source="aparat.png" HeightRequest="100" WidthRequest="120" VerticalOptions="Start" BackgroundColor="#131313" Clicked="CameraButtonClick"/>
+                <Label  Margin="0,15,0,0" Text="PHOTO" VerticalOptions="End" TextColor="WhiteSmoke" FontSize="22"/>
+            </Grid>
+      
+        </Grid>
+
+    </Grid>
+</ContentPage>

@@ -1,5 +1,4 @@
-# Moje projekty z Javy:
-
-1. Program służący do szukania najkrótszego cyklu w grafie skierowanym.
+# Java:
+ Java program to find the shortest cycle in a directed graph.
 
 
