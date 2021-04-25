@@ -1,0 +1,20 @@
+C:\Users\Michał\Desktop\Odcinek\Odcinek\bin\Debug\Odcinek.exe.config
+C:\Users\Michał\Desktop\Odcinek\Odcinek\bin\Debug\Odcinek.exe
+C:\Users\Michał\Desktop\Odcinek\Odcinek\bin\Debug\Odcinek.pdb
+C:\Users\Michał\Desktop\Odcinek\Odcinek\obj\Debug\Odcinek.csprojAssemblyReference.cache
+C:\Users\Michał\Desktop\Odcinek\Odcinek\obj\Debug\Odcinek.Form1.resources
+C:\Users\Michał\Desktop\Odcinek\Odcinek\obj\Debug\Odcinek.Properties.Resources.resources
+C:\Users\Michał\Desktop\Odcinek\Odcinek\obj\Debug\Odcinek.csproj.GenerateResource.cache
+C:\Users\Michał\Desktop\Odcinek\Odcinek\obj\Debug\Odcinek.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\Odcinek\Odcinek\obj\Debug\Odcinek.exe
+C:\Users\Michał\Desktop\Odcinek\Odcinek\obj\Debug\Odcinek.pdb
+C:\Users\micha\Desktop\STUDIA\grafika komp\Odcinek\Odcinek\bin\Debug\Odcinek.exe.config
+C:\Users\micha\Desktop\STUDIA\grafika komp\Odcinek\Odcinek\bin\Debug\Odcinek.exe
+C:\Users\micha\Desktop\STUDIA\grafika komp\Odcinek\Odcinek\bin\Debug\Odcinek.pdb
+C:\Users\micha\Desktop\STUDIA\grafika komp\Odcinek\Odcinek\obj\Debug\Odcinek.csprojAssemblyReference.cache
+C:\Users\micha\Desktop\STUDIA\grafika komp\Odcinek\Odcinek\obj\Debug\Odcinek.Form1.resources
+C:\Users\micha\Desktop\STUDIA\grafika komp\Odcinek\Odcinek\obj\Debug\Odcinek.Properties.Resources.resources
+C:\Users\micha\Desktop\STUDIA\grafika komp\Odcinek\Odcinek\obj\Debug\Odcinek.csproj.GenerateResource.cache
+C:\Users\micha\Desktop\STUDIA\grafika komp\Odcinek\Odcinek\obj\Debug\Odcinek.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\STUDIA\grafika komp\Odcinek\Odcinek\obj\Debug\Odcinek.exe
+C:\Users\micha\Desktop\STUDIA\grafika komp\Odcinek\Odcinek\obj\Debug\Odcinek.pdb
